@@ -1,0 +1,19 @@
+.flashcard {
+    background-color: #fff8dc; /* light yellow (flashcard feel) */
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    width: 300px;
+    margin: 20px auto;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+  }
+  
+  .flashcard:hover {
+    transform: scale(1.05);
+    background-color: #fef3c7; /* slightly deeper yellow on hover */
+  }
+  
