@@ -45,7 +45,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-https://imgur.com/a/citNeNv.gif
+https://www.loom.com/share/067161e1602149dc956054fec17e2c3d?sid=825c04ce-d43e-4be8-a13d-a0643d64e55b
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
